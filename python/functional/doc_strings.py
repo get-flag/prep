@@ -7,6 +7,9 @@ def  add(a: int,b :int) -> int:
 
 #print(help(add))
 print(add.__doc__)
+<<<<<<< HEAD
 
 #gives annotations
 print(add.__annotations__)
+=======
+>>>>>>> origin/main
