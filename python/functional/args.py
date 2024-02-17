@@ -1,6 +1,6 @@
 #after *args, the next parameter is *kwargs
 #*args exhausts keyword arguments
-#diff from variable unpacking is it return a tuple, while variable unpacking
+#diff from variable unpacking is it return a tuple, while variable unpacking returns a list
 #by default gives out list
 
 # * implies end positional arguments, eg: func2
